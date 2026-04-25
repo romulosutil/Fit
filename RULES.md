@@ -1,10 +1,10 @@
-# Fit — Regras Operacionais
+# fit_os — Regras Operacionais
 
 ## Mapeamento 1:1:1:1 (Vínculo Obrigatório)
 - **Pasta Local**: `C:\Users\sutil\documents\lib\fit`
-- **GitHub Repo**: [romulosutil/Fit](https://github.com/romulosutil/Fit)
+- **GitHub Repo**: [romulosutil/fit_os](https://github.com/romulosutil/fit_os)
 - **GitHub Project**: [@romulosutil Pipe (Kanban)](https://github.com/users/romulosutil/projects/1/views/1)
-- **Obsidian Brain**: `02_Areas/Fit/RULES.md`
+- **Obsidian Brain**: `02_Areas/fit_os/RULES.md`
 
 ---
 
