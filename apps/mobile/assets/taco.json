@@ -1,0 +1,12 @@
+[
+  { "id": 1, "nome": "Arroz, integral, cozido", "kcal": 124, "ptn_g": 2.6, "cho_g": 25.8, "lip_g": 1.0 },
+  { "id": 2, "nome": "Feijão, preto, cozido", "kcal": 77, "ptn_g": 4.5, "cho_g": 14.0, "lip_g": 0.5 },
+  { "id": 3, "nome": "Frango, peito, grelhado", "kcal": 163, "ptn_g": 31.5, "cho_g": 0.0, "lip_g": 3.7 },
+  { "id": 4, "nome": "Ovo, galinha, cozido", "kcal": 155, "ptn_g": 13.0, "cho_g": 1.1, "lip_g": 11.0 },
+  { "id": 5, "nome": "Banana, prata, crua", "kcal": 89, "ptn_g": 1.1, "cho_g": 22.8, "lip_g": 0.3 },
+  { "id": 6, "nome": "Batata, doce, cozida", "kcal": 77, "ptn_g": 0.6, "cho_g": 18.4, "lip_g": 0.1 },
+  { "id": 7, "nome": "Azeite, de oliva, extra virgem", "kcal": 884, "ptn_g": 0.0, "cho_g": 0.0, "lip_g": 100.0 },
+  { "id": 8, "nome": "Leite, desnatado, pó", "kcal": 362, "ptn_g": 34.7, "cho_g": 52.0, "lip_g": 0.7 },
+  { "id": 9, "nome": "Pão, francês", "kcal": 300, "ptn_g": 8.0, "cho_g": 58.6, "lip_g": 3.1 },
+  { "id": 10, "nome": "Carne, bovina, patinho, grelhado", "kcal": 219, "ptn_g": 35.9, "cho_g": 0.0, "lip_g": 7.3 }
+]

@@ -1,10 +1,19 @@
 # Fit — Regras Operacionais
 
 ## Mapeamento 1:1:1:1 (Vínculo Obrigatório)
-- **Pasta Local**: `C:\Users\sutil\Documents\lib\Fit`
+- **Pasta Local**: `C:\Users\sutil\documents\lib\fit`
 - **GitHub Repo**: [romulosutil/Fit](https://github.com/romulosutil/Fit)
 - **GitHub Project**: [@romulosutil Pipe (Kanban)](https://github.com/users/romulosutil/projects/1/views/1)
 - **Obsidian Brain**: `02_Areas/Fit/RULES.md`
+
+---
+
+## ✅ Entrega Ciclo 1 (2026-04-25) - MVP Completo
+- [x] Infraestrutura Supabase (Migrations + RLS).
+- [x] Módulo Personal (Listagem Alunos, Treino CRUD, Dieta TACO).
+- [x] Módulo Aluno (Home Hoje, Água, Execução de Treino, Dieta).
+- [x] Gamificação (XP Acumulado + Streaks).
+- [x] Financeiro (Free Trial 30 dias + Bloqueio de Upgrade).
 
 ---
 
